@@ -1,4 +1,4 @@
-![es-logo](https://raw.githubusercontent.com/blacktop/docker-elasticsearch-alpine/master/es-logo.png)
+![es-logo](https://conference.sarccom.org/wp-content/uploads/2018/02/sarccom-mail-signature-200x93.png)
 
 # docker-elasticsearch-alpine
 
