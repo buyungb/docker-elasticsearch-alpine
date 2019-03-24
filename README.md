@@ -1,6 +1,6 @@
 ![es-logo](https://conference.sarccom.org/wp-content/uploads/2018/02/sarccom-mail-signature-200x93.png)
 
-# docker-elasticsearch-alpine
+# docker-sarccom-workshop-elk
 
 [![CircleCI](https://circleci.com/gh/blacktop/docker-elasticsearch-alpine.png?style=shield)](https://circleci.com/gh/blacktop/docker-elasticsearch-alpine) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org) [![Docker Stars](https://img.shields.io/docker/stars/blacktop/elasticsearch.svg)](https://hub.docker.com/r/blacktop/elasticsearch/) [![Docker Pulls](https://img.shields.io/docker/pulls/blacktop/elasticsearch.svg)](https://hub.docker.com/r/blacktop/elasticsearch/) [![Docker Image](https://img.shields.io/badge/docker%20image-127MB-blue.svg)](https://hub.docker.com/r/blacktop/elasticsearch/)
 
